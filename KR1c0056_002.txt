@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩傳名物集覽
-#+DATE: 2015-09-23 09:37:09
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:06:44.349998
+#+PROPERTY: ID KR1c0056
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR1c0056_WYG_002-1a>¶
 欽定四庫全書¶
 　詩傳名物集覽卷二　　　庶吉士陳大章撰¶
@@ -722,4 +724,3 @@
 　¶
 　¶
 　詩傳名物集覽卷二¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩傳名物集覽
-#+DATE: 2015-09-23 09:37:09
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 22:06:44.381408
+#+PROPERTY: ID KR1c0056
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三
 <pb:KR1c0056_WYG_003-1a>¶
 欽定四庫全書¶
 　詩傳名物集覽卷三　　庻吉士陳大章撰¶
@@ -704,4 +706,3 @@
 新論畜生賤也然尤有善者皆見記識故馬稱驊騮驥¶
 騄牛譽郭椒丁櫟¶
 　詩傳名物集覽卷三¶
-
